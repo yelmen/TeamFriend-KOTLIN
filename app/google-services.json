@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1088658445951",
+    "project_id": "oynarmisin-23531",
+    "storage_bucket": "oynarmisin-23531.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088658445951:android:548d3ca281329a1227114a",
+        "android_client_info": {
+          "package_name": "com.yelmen.varmisin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088658445951-jhm56ksop4aibkh4npbmqerbodqifppn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACdYL5ev8KUMSf3KqlSVJJqcrpHgZC40w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088658445951-jhm56ksop4aibkh4npbmqerbodqifppn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
